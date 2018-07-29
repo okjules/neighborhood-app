@@ -103,13 +103,13 @@ class App extends Component {
       InfoWindow.marker = marker
       InfoWindow.setContent(
         `
-        <div class="infoWindow">
+        <div class="infoWindow" tabIndex="0">
           <header>
-            <p>Source: Wikipedia</p>
-            <h2>${marker.name}</h2>
+            <p class="infoWindow-source">Source: Wikipedia</p>
+            <h2 class="infoWindow-location-name">${marker.name}</h2>
             <hr/>
           </header>
-          <article>${wikiContent}</article>
+          <article class="infoWindow-wikipedia-content">${wikiContent}</article>
         </div>
         `
       )
@@ -140,7 +140,7 @@ class App extends Component {
           toggleOpen = {this.toggleOpen}
           isOpen = {isOpen}
         />
-        <div id="map"></div>
+        <div id="map" role="application"></div>
       </div>
     );
   }
