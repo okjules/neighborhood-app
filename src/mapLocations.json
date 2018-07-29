@@ -1,20 +1,20 @@
 [
   {
-    "key": "brandenburg",
+    "key": "Brandenburg_Gate",
     "id": "Brandenburg_Gate",
     "title": "Brandenburg_Gate",
-    "name": "Brandenburger Tor",
+    "name": "Brandenburger Gate",
     "position": {"lat": 52.5162746, "lng": 13.3777041}
   },
   {
-    "key": "charlie",
+    "key": "Checkpoint_Charlie",
     "id": "Checkpoint_Charlie",
     "title": "Checkpoint_Charlie",
     "name": "Checkpoint Charlie",
     "position": {"lat": 52.5074434, "lng": 13.3903913}
   },
   {
-    "key": "reichstag",
+    "key": "Reichstag_building",
     "id": "Reichstag_building",
     "title": "Reichstag_building",
     "name": "Reichstag Building",
@@ -28,38 +28,38 @@
     "position": {"lat": 52.5137224, "lng": 13.3926698}
   },
   {
-    "key": "memorial",
-    "id": "Memorial_to_the_Murdered_Jews_of_Europe",
-    "title": "Memorial_to_the_Murdered_Jews_of_Europe",
-    "name": "Memorial to the murdered Jews of Europe",
-    "position": {"lat": 52.5139474, "lng": 13.3787127}
-  },
-  {
-    "key": "currywurst",
-    "id": "Deutsches_Currywurst_Museum",
-    "title": "Deutsches_Currywurst_Museum",
-    "name": "German Currywurst Museum",
-    "position": {"lat": 52.50883, "lng": 13.391162}
-  },
-  {
-    "key": "rathaus",
+    "key": "Rotes_Rathaus",
     "id": "Rotes_Rathaus",
     "title": "Rotes_Rathaus",
-    "name": "Rotes Rathaus (City Hall)",
+    "name": "Rotes Rathaus",
     "position": {"lat": 52.5182774, "lng": 13.4086484}
   },
   {
-    "key": "cathedral",
+    "key": "Berlin_Cathedral",
     "id": "Berlin_Cathedral",
     "title": "Berlin_Cathedral",
-    "name": "Berliner Dom",
+    "name": "Berliner Cathedral",
     "position": {"lat": 52.5190608, "lng": 13.401078}
   },
   {
-    "key": "pergamon",
+    "key": "Pergamon_Museum",
     "id": "Pergamon_Museum",
     "title": "Pergamon_Museum",
     "name": "Pergamon Museum",
     "position": {"lat": 52.521183, "lng": 13.3969}
+  },
+  {
+    "key": "Tränenpalast",
+    "id": "Tränenpalast",
+    "title": "Tränenpalast",
+    "name": "Tränenpalast",
+    "position": {"lat": 52.520852, "lng": 13.3870969}
+  },
+  {
+    "key": "German_Chancellery",
+    "id": "German_Chancellery",
+    "title": "German_Chancellery",
+    "name": "German Chancellery",
+    "position": {"lat": 52.52016279999999, "lng": 13.3692701}
   }
 ]
