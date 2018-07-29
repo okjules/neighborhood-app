@@ -104,8 +104,10 @@ class MapFilter extends Component {
     return (
       <aside className={isOpen ? "mapfilter open" : "mapfilter"}>
         <header>
-          <form onSubmit={(event) => event.preventDefault()}>
+          <form onSubmit={(event) => event.preventDefault()} className="mapfilter-form">
             <input
+              aria-labelledby="search"
+              type="text"
               className="input-field"
               placeholder="Search sights..."
               value={query}
@@ -121,7 +123,8 @@ class MapFilter extends Component {
         </header>
 
         <ul className="location-list"> {mapFiltered.map(location => (
-          <li className="location" key={location.key}
+          <li tabIndex={0} role="button" className="location"
+            key={location.key}
             onClick= {() => this.manageMarker(location)}
             onKeyPress={() => this.manageMarker(location)}>
               <div className="location-name">{location.name}</div>
