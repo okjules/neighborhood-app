@@ -1,0 +1,14 @@
+/* Styling for Map Responsiveness*/
+
+@media screen and (min-width: 420px) {
+  .App {
+    display: flex;
+    flex-flow: row nowrap;
+  }
+
+  .mapfilter {
+    min-width: 250px;
+    position: relative;
+    left: 0;
+  }
+}

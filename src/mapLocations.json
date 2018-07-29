@@ -1,0 +1,65 @@
+[
+  {
+    "key": "brandenburg",
+    "id": "Brandenburg_Gate",
+    "title": "Brandenburg_Gate",
+    "name": "Brandenburger Tor",
+    "position": {"lat": 52.5162746, "lng": 13.3777041}
+  },
+  {
+    "key": "charlie",
+    "id": "Checkpoint_Charlie",
+    "title": "Checkpoint_Charlie",
+    "name": "Checkpoint Charlie",
+    "position": {"lat": 52.5074434, "lng": 13.3903913}
+  },
+  {
+    "key": "reichstag",
+    "id": "Reichstag_building",
+    "title": "Reichstag_building",
+    "name": "Reichstag Building",
+    "position": {"lat": 52.5186202, "lng": 13.3761872}
+  },
+  {
+    "key": "gendarmenmarkt",
+    "id": "Gendarmenmarkt",
+    "title": "Gendarmenmarkt",
+    "name": "Gendarmenmarkt",
+    "position": {"lat": 52.5137224, "lng": 13.3926698}
+  },
+  {
+    "key": "memorial",
+    "id": "Memorial_to_the_Murdered_Jews_of_Europe",
+    "title": "Memorial_to_the_Murdered_Jews_of_Europe",
+    "name": "Memorial to the murdered Jews of Europe",
+    "position": {"lat": 52.5139474, "lng": 13.3787127}
+  },
+  {
+    "key": "currywurst",
+    "id": "Deutsches_Currywurst_Museum",
+    "title": "Deutsches_Currywurst_Museum",
+    "name": "German Currywurst Museum",
+    "position": {"lat": 52.50883, "lng": 13.391162}
+  },
+  {
+    "key": "rathaus",
+    "id": "Rotes_Rathaus",
+    "title": "Rotes_Rathaus",
+    "name": "Rotes Rathaus (City Hall)",
+    "position": {"lat": 52.5182774, "lng": 13.4086484}
+  },
+  {
+    "key": "cathedral",
+    "id": "Berlin_Cathedral",
+    "title": "Berlin_Cathedral",
+    "name": "Berliner Dom",
+    "position": {"lat": 52.5190608, "lng": 13.401078}
+  },
+  {
+    "key": "pergamon",
+    "id": "Pergamon_Museum",
+    "title": "Pergamon_Museum",
+    "name": "Pergamon Museum",
+    "position": {"lat": 52.521183, "lng": 13.3969}
+  }
+]
