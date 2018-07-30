@@ -51,7 +51,7 @@ componentDidMount() {
 - The project was built with [React](https://reactjs.org/)
 - The project was bootstrapped using [create-react-app](https://github.com/facebook/create-react-app)
 and uses the pre-installed service worker
-(Note: The service worker only functions in production mode)
+*(Note: The service worker only functions in production mode)*
 
 ###### *APIs*
 - The project requires implementation of [Google Maps API](https://developers.google.com/maps/documentation/)
@@ -63,7 +63,7 @@ and uses the pre-installed service worker
 - The project uses [sort-by](https://github.com/kvnneff/sort-by)
 
 ###### *Styling*
-- Map uses a modified styl from [Snazzy Maps](https://snazzymaps.com/)
+- Map uses a modified style from [Snazzy Maps](https://snazzymaps.com/)
 
 ## Other Sources consulted during Project
 
