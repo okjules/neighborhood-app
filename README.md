@@ -50,6 +50,7 @@ componentDidMount() {
 - To use the project you will need [npm](https://www.npmjs.com/get-npm)
 - The project was built with [React](https://reactjs.org/)
 - The project was bootstrapped using [create-react-app](https://github.com/facebook/create-react-app)
+and uses the pre-installed service worker (Note: The service worker only functions in production mode)
 
 ###### *APIs*
 - The project requires implementation of [Google Maps API](https://developers.google.com/maps/documentation/)
