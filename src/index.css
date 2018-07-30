@@ -27,7 +27,7 @@ body,
 
 .mapfilter header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   padding: 5px;
   margin-bottom: -10px;
 }

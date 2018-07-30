@@ -34,7 +34,7 @@ class App extends Component {
     /* Define the map for central Berlin and the styles */
     let map = new window.google.maps.Map(document.getElementById('map'), {
       center: { lat: 52.514346, lng: 13.385326 },
-      zoom: 15,
+      zoom: 14,
       styles: mapStyles
     });
 

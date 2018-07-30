@@ -7,8 +7,49 @@
   }
 
   .mapfilter {
-    min-width: 250px;
-    position: relative;
+    width: 100%;
     left: 0;
+    top: 420px;
+  }
+
+  #map {
+    max-width: 100%;
+    height: 400px;
+    top: 0;
+  }
+}
+
+
+@media screen and (min-width: 550px) {
+
+ .mapfilter {
+   width: 200px;
+   position: relative;
+   left: 0;
+   top: 0;
+ }
+
+ #map {
+ 	height: 100%;
+ 	width: 100%;
+ }
+
+ .mapfilter header .reload {
+   min-width: 20px;
+ }
+
+ .mapfilter header form .input-field {
+   width: 130px;
+ }
+}
+
+@media screen and (min-width: 750px) {
+  .mapfilter {
+    width: 300px;
+    max-height: 100%;
+  }
+
+  .mapfilter header .reload {
+    min-width: 60px;
   }
 }
