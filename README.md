@@ -50,7 +50,8 @@ componentDidMount() {
 - To use the project you will need [npm](https://www.npmjs.com/get-npm)
 - The project was built with [React](https://reactjs.org/)
 - The project was bootstrapped using [create-react-app](https://github.com/facebook/create-react-app)
-and uses the pre-installed service worker (Note: The service worker only functions in production mode)
+and uses the pre-installed service worker
+(Note: The service worker only functions in production mode)
 
 ###### *APIs*
 - The project requires implementation of [Google Maps API](https://developers.google.com/maps/documentation/)
@@ -61,11 +62,13 @@ and uses the pre-installed service worker (Note: The service worker only functio
 - The project uses [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp)
 - The project uses [sort-by](https://github.com/kvnneff/sort-by)
 
+###### *Styling*
+- Map uses a modified styl from [Snazzy Maps](https://snazzymaps.com/)
+
 ## Other Sources consulted during Project
 
 - [React Documentation](http://devdocs.io/react/)
 - [React Tutorials](https://reactjs.org/tutorial/tutorial.html)
-- [Snazzy Maps](https://snazzymaps.com/)
 - [Google Place ID Finder](https://developers.google.com/maps/documentation/javascript/examples/places-placeid-finder)
 - [Google Geocoding Documentation](https://developers.google.com/maps/documentation/javascript/geocoding)
 - [Wikipedia API Documentation](https://www.mediawiki.org/wiki/API:Main_page)
